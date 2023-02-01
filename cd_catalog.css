@@ -1,0 +1,25 @@
+TITLE
+{
+	color: red;
+    display:in-line;
+    font-size :30px;
+}
+
+ARTIST
+{
+	color: blue;
+    display:in-line;
+    font-size :30px;
+}
+
+COUNTRY,COMPANY,PRICE,YEAR
+{
+   margin-left : 20px;
+   display:block;
+}
+
+CD
+{
+   margin-bottom: 30px;
+   display:block;
+}

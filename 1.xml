@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE family SYSTEM "D:\XML\DAY1\1.dtd">
+<family>
+	<grandfather>ahmed
+        <father jop="engineer">ayman
+		    <mother>aya</mother>
+			<doughter age="22" jop="engineer">nora</doughter>
+			<son age="20" sport="football">yasser</son>
+		</father>
+		<uncle>khalid</uncle>
+		<uncle>eslam</uncle>
+		<aunt sons="2">sara</aunt>
+	</grandfather>
+</family>
